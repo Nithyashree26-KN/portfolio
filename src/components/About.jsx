@@ -35,7 +35,7 @@ const About = () => {
                 <p className="text-[#ff2a2a] text-xs font-bold tracking-widest uppercase mt-0.5">Java Full Stack Developer</p>
                 <div className="mt-2 flex justify-center gap-2 flex-wrap">
                   <span className="text-white/60 text-[9px] font-mono">📍 Karnataka, India</span>
-                  <span className="text-white/60 text-[9px] font-mono">🎓 CGPA 8.7</span>
+                  <span className="text-white/60 text-[9px] font-mono">💼 Open to Opportunities</span>
                 </div>
               </div>
             </div>
@@ -72,10 +72,10 @@ const About = () => {
           <h2 className="text-4xl md:text-5xl font-black text-black mb-4">About Me</h2>
           <p className="text-base font-semibold mb-8 leading-relaxed max-w-xl text-red-50">
             Hi! I'm <span className="text-black font-black text-lg">Nithyashree Hegde KN</span>, a passionate
-            Java Full Stack Developer currently pursuing B.E. in Electronics & Telecommunication at JNNCE Shimoga.
-            I love building scalable, user-friendly web applications from the ground up — from responsive frontends to 
-            optimized backend databases. Currently interning at <span className="text-black font-bold">TAP Academy, Bengaluru</span>, 
-            where I'm building real-world full-stack products using Java, MySQL, and modern web technologies.
+            Software Engineer with a strong foundation in building scalable, user-friendly web applications 
+            from the ground up — from responsive frontends to optimized backend databases. Currently interning at 
+            <span className="text-black font-bold"> TAP Academy, Bengaluru</span>, where I'm engineering real-world 
+            full-stack products using Java, MySQL, and modern web technologies.
           </p>
 
           {/* Skills */}

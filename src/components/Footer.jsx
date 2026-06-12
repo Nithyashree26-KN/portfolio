@@ -18,7 +18,7 @@ const Footer = () => {
         </div>
 
         <div className="flex flex-col gap-1 md:items-center">
-          <p>JNNCE Shimoga · CGPA 8.7</p>
+          <p>Innovating Digital Solutions</p>
           <button
             onClick={() => scrollTo('projects')}
             className="underline hover:text-white transition-colors mt-1 underline-offset-4 decoration-1 text-left md:text-center"

@@ -104,7 +104,7 @@ const Hero = () => {
           data-aos-delay="300"
           className="text-white/60 text-sm md:text-base font-medium mb-10 max-w-lg leading-relaxed"
         >
-          B.E. Electronics & Telecommunication · CGPA 8.7 · Building scalable web applications
+          Passionate Software Engineer dedicated to architecting scalable web applications
           with Java, JDBC, MySQL & modern frontend technologies.
         </p>
 
