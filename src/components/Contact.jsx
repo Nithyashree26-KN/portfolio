@@ -8,12 +8,7 @@ const contactLinks = [
     href: 'mailto:nithyashree26thirthalli@gmail.com',
     icon: '✉️',
   },
-  {
-    label: 'Phone',
-    value: '+91 7899973303',
-    href: 'tel:+917899973303',
-    icon: '📞',
-  },
+  
   {
     label: 'LinkedIn',
     value: 'nithyashree-hegde-kn',
