@@ -57,13 +57,7 @@ const About = () => {
                 <p className="text-white/60 text-[10px]">Intern · Jan–Jul 2026</p>
               </div>
             </div>
-            <div className="bg-black/20 rounded-xl px-4 py-2 flex items-center gap-2">
-              <span className="text-lg">📞</span>
-              <div>
-                <p className="text-white text-xs font-bold">7899973303</p>
-                <p className="text-white/60 text-[10px]">Available for opportunities</p>
-              </div>
-            </div>
+
           </div>
         </div>
 
